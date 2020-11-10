@@ -1,0 +1,21 @@
+ListingId	UpdateOnDate	Address	NewPrice
+176809467	2020-11-10	278-1-edmonstone-avenue-belconnen-canberra	$345,000+
+178417291	2020-11-10	78-72-wentworth-avenue-kingston-canberra	$415,000
+178480551	2020-11-10	g4-2-currie-crescent-griffith-canberra	$629,000
+178533169	2020-11-10	75-39-benjamin-way-belconnen-canberra	$399,900+
+178565806	2020-11-10	40-rochelle-street-moncrieff-canberra	$750,000+
+178606871	2020-11-10	512-15-cooyong-street-canberra-canberra	$369,000
+178687188	2020-11-10	7a-mawson-drive-mawson-canberra	$1,250,000
+178695296	2020-11-10	7-16-berrigan-crescent-o-connor-canberra	$380,000
+178708754	2020-11-10	712-74-northbourne-avenue-braddon-canberra	$355,000 +
+178749062	2020-11-10	8-daglish-street-curtin-canberra	$2,000,000
+178749665	2020-11-10	41-cynthea-teague-crescent-greenway-canberra	$519,900-$589,900
+178762995	2020-11-10	238-325-anketell-street-greenway-canberra	$369,000+
+178763232	2020-11-10	86-blamey-crescent-campbell-canberra	$1,500,000+
+178770460	2020-11-10	12-46-mcmillan-crescent-narrabundah-canberra	$235,000
+178787527	2020-11-10	017-119-mcmichael-terrace-denman-prospect-canberra	$535,000
+178808152	2020-11-10	no-street-name-provided-strathnairn-canberra	$599,000-$625,000
+178814377	2020-11-10	38-molesworth-street-watson-canberra	$1,450,000
+178823402	2020-11-10	10-19-state-circle-forrest-canberra	By Negotiation
+178831475	2020-11-10	21-conjola-close-amaroo-canberra	$1,100,000
+178851390	2020-11-10	1-karloan-street-bonner-canberra	$629,000+
