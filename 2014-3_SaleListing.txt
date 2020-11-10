@@ -1,0 +1,2 @@
+id	type	DescriptionTitle	PriceLabel	ListingDate	ReListingDate	Address	Suburb	State	PostCode	Property.lat	Property.lon	PropertyType	Agency.Id	Agency.Type	Agency.Name	Agent.Name	Beds	Baths	Cars	EER	PlotSize	Features
+169120635	SALES_RESIDENTIAL	Great block to custom design your dream home!	$347,600	2014-07-02 04:08:00		(no street name provided)	Strathnairn	ACT	2615	-35.22823	148.99662	LAND	192845	Agent	APA Homes	Cindy Ho		0	0		490	[]
