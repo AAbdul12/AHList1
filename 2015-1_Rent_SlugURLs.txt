@@ -1,0 +1,5 @@
+ListingId	DateTime	URL
+169464167	2015-01-02 09:03:15	chifley-act-2606?tid=169464167
+169501824	2015-01-22 10:59:11	13-maclurcan-street-franklin-act-2913
+169543704	2015-02-13 00:16:10	gungahlin-act-2912?tid=169543704
+169675854	2015-03-24 23:38:55	322-flemington-road-gungahlin-act-2912
