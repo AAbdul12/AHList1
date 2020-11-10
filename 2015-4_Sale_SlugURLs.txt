@@ -1,0 +1,5 @@
+ListingId	DateTime	URL
+169608784	2015-10-01 05:55:09	bronhill-street-moncrieff-act-2914?tid=169608784
+171236628	2015-10-28 00:24:13	81-constitution-avenue-campbell-act-2612?tid=171236628
+171359274	2015-11-18 05:37:14	unit-1-108-davenport-street-dickson-act-2602
+171396401	2015-11-25 13:00:00	unit-36-11-kerridge-street-kingston-act-2604
