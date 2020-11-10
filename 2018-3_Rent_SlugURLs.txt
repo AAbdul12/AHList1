@@ -1,0 +1,12 @@
+ListingId	DateTime	URL
+175483269	2018-07-01 10:27:05	unit-11-10-ovens-street-griffith-act-2603
+175521361	2018-07-21 02:41:18	unit-510-25-edinburgh-avenue-city-act-2601
+175599806	2018-07-30 12:31:55	15-victor-chang-street-macgregor-act-2615
+175629057	2018-08-11 00:52:36	unit-12-20-batman-street-braddon-act-2612
+175658286	2018-08-13 15:45:53	148-oodgeroo-avenue-franklin-act-2913
+175672436	2018-08-16 09:30:35	unit-83-12-david-street-turner-act-2612
+175698456	2018-08-23 04:26:07	21-burra-place-braddon-act-2612
+175698726	2018-08-23 05:00:20	51-byron-court-phillip-act-2606
+175701586	2018-08-23 23:08:28	13-15-sturt-avenue-griffith-act-2603
+175749337	2018-09-05 05:31:28	33-currong-street-south-reid-act-2612
+175782656	2018-09-12 09:48:18	franklin-act-2913?tid=175782656
