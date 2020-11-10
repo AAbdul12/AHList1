@@ -1,0 +1,4 @@
+ListingId	DateTime	URL
+172012630	2016-04-15 05:58:18	unit-23-3-gordon-street-city-act-2601
+172218667	2016-06-02 07:15:04	moncrieff-act-2914?tid=172218667
+172282341	2016-06-16 14:00:00	4-koala-close-throsby-act-2914
