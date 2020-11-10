@@ -1,0 +1,2 @@
+id	type	DescriptionTitle	PriceLabel	ListingDate	ReListingDate	Address	Suburb	State	PostCode	Property.lat	Property.lon	PropertyType	Agency.Id	Agency.Type	Agency.Name	Agent.Name	Beds	Baths	Cars	EER	PlotSize	Features
+168770270	SALES_RESIDENTIAL	convenient one bedroom unit	$250,000	2013-10-21 05:43:15		5/26 Springvale Drive	Hawker	ACT	2614	-35.24566364	149.04369367	UNIT	216676	PrivateLister	Private Lister		1	1	1	6	4379.4	[]
