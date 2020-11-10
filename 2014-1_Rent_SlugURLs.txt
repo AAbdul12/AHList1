@@ -1,0 +1,8 @@
+ListingId	DateTime	URL
+168852263	2014-01-03 01:05:41	24-badgery-street-macquarie-act-2614
+168852603	2014-01-03 06:31:29	stirling-act-2611?tid=168852603
+168860702	2014-01-10 04:50:00	unit-8-60-callam-street-phillip-act-2606
+168875275	2014-01-21 07:25:30	dickson-act-2602?tid=168875275
+168881532	2014-01-24 07:21:02	palmerston-act-2913?tid=168881532
+168888312	2014-01-30 11:17:43	unit-2-102a-carruthers-street-curtin-act-2605
+168895852	2014-02-05 23:05:00	unit-67-10-hinder-street-gungahlin-act-2912
