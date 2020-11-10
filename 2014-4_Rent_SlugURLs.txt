@@ -1,0 +1,6 @@
+ListingId	DateTime	URL
+169325525	2014-10-12 20:05:54	de-burgh-street-lyneham-act-2602?tid=169325525
+169327605	2014-10-13 22:03:20	unit-511-222-city-walk-city-act-2601
+169385124	2014-11-13 04:14:03	franklin-act-2913?tid=169385124
+169391344	2014-11-17 11:27:24	10-maclurcan-street-franklin-act-2913
+169404164	2014-11-24 08:28:59	unit-1114-240-bunda-street-city-act-2601
