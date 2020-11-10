@@ -1,0 +1,7 @@
+ListingId	DateTime	URL
+173337942	2017-01-23 14:58:48	unit-12-3-bowen-drive-barton-act-2600
+173424133	2017-02-12 11:08:34	unit-1001-2-masson-street-turner-act-2612
+173455572	2017-02-17 06:21:53	chifley-act-2606?tid=173455572
+173497602	2017-02-27 10:33:24	miller-street-o-connor-act-2602?tid=173497602
+173579643	2017-03-18 01:45:16	526-northbourne-avenue-downer-act-2602
+173579704	2017-03-21 21:31:22	braddon-act-2612?tid=173579704
