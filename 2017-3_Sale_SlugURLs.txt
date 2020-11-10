@@ -1,0 +1,6 @@
+ListingId	DateTime	URL
+174083706	2017-07-13 14:00:00	denman-prospect-act-2611?tid=174083706
+174141022	2017-08-01 00:48:33	taylor-act-2913?tid=174141022
+174163549	2017-08-15 23:33:22	grenfell-avenue-taylor-act-2913?tid=174163549
+174193568	2017-08-10 07:13:36	brushtail-street-throsby-act-2914?tid=174193568
+174301147	2017-09-12 06:36:28	evergreen-3-bedroom-townhouse-coombs-act-2611?tid=174301147
