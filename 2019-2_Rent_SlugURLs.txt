@@ -1,0 +1,13 @@
+ListingId	DateTime	URL
+176596238	2019-04-07 23:37:58	1-chaton-place-palmerston-act-2913
+176650877	2019-04-24 12:02:01	unit-100-56-ernest-cavanagh-street-gungahlin-act-2912
+176675910	2019-04-27 09:56:29	narrabundah-act-2604?tid=176675910
+176729576	2019-05-09 07:16:47	12-ryrie-street-campbell-act-2612
+176731156	2019-05-09 18:53:02	unit-818-240-bunda-street-city-act-2601
+176752580	2019-05-23 10:46:21	3-woronora-street-kaleen-act-2617
+176759661	2019-05-27 10:55:37	forwood-street-monash-act-2904?tid=176759661
+176825986	2019-06-01 05:52:54	harrison-act-2914?tid=176825986
+176846173	2019-06-06 05:33:07	17-terrigal-crescent-o-malley-act-2606
+176888343	2019-06-22 07:02:55	47-bellbird-loop-lawson-act-2617
+176889332	2019-06-23 02:57:16	red-hill-act-2603?tid=176889332
+176935786	2019-06-26 10:33:22	21-whitmore-crescent-watson-act-2602
