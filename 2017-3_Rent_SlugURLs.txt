@@ -1,0 +1,5 @@
+ListingId	DateTime	URL
+174145555	2017-07-30 08:13:08	unit-3-42-henty-street-braddon-act-2612
+174249055	2017-08-24 12:07:16	dickson-act-2602?tid=174249055
+174320414	2017-09-11 22:45:50	25-ian-nicol-street-watson-act-2602
+174343424	2017-09-17 00:55:02	narrabundah-act-2604?tid=174343424
